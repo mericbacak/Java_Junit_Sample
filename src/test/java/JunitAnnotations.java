@@ -1,4 +1,3 @@
-import org.example.Calculator;
 import org.junit.jupiter.api.*;
 
 public class JunitAnnotations {
