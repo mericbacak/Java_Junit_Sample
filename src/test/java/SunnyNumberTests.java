@@ -1,16 +1,16 @@
-import org.example.SunnyNumber;
+import JavaExamples.BasicPrograms.SunnyNumber;
 import org.junit.jupiter.api.Test;
 
 
 public class SunnyNumberTests {
     @Test()
     public void SunnyNumberTest1(){
-        SunnyNumber.SunnyNumberChecker(8);
+       SunnyNumber.SunnyNumberChecker(10);
     }
 
     @Test
     public void SunnyNumberTest2(){
-       SunnyNumber.SunnyNumberChecker(13);
+        SunnyNumber.SunnyNumberChecker(13);
     }
 
     @Test

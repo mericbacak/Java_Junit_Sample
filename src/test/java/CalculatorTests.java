@@ -1,4 +1,4 @@
-import org.example.Calculator;
+import JavaExamples.BasicPrograms.Calculator;
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -54,6 +54,4 @@ public class CalculatorTests {
         assertEquals(6,result4);
         System.out.println("multiplaction test has executed");
     }
-
-
 }
